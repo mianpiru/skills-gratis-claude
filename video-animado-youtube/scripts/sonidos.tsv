@@ -1,0 +1,203 @@
+archivo	mixkit_id	descripcion	segundos_max
+pop-1	2357	Bubble pop up alert notification	0.4
+pop-2	2356	Dry pop up notification alert	0.3
+pop-3	2354	Message pop alert	0.1
+pop-4	2358	Long pop	0.5
+burbuja-1	3192	Egg bubble pop	0.2
+burbuja-2	3000	Liquid bubble	0.5
+burbuja-3	2925	Soap bubble sound	0.3
+clic-1	1126	Interface click	0.3
+clic-2	2568	Cool interface click tone	0.1
+clic-3	2573	Interface option select	0.5
+clic-4	1112	Positive interface click	0.2
+interruptor-1	2585	On or off light switch tap	0.1
+interruptor-2	2579	Light switch sound	0.2
+interruptor-3	1891	Light pull switch	0.8
+whoosh-1	1489	Air woosh	1.4
+whoosh-2	2604	Deep air woosh	2.5
+whoosh-3	2605	Quick air woosh	1.2
+whoosh-4	1168	Woosh wind	2.3
+swoosh-1	1462	Quick swoosh	0.6
+swoosh-2	1481	Cinematic swoosh	1.6
+swoosh-3	164	Fast sweeping transition	1.6
+swoosh-4	166	Fast small sweep transition	0.7
+madera-1	2182	Wood hard hit	0.3
+madera-2	3141	Small wood plank pile drop	1.0
+madera-3	197	Knocking on a thick wooden door	1.1
+madera-4	3136	Wood plank dominoes fall	2.2
+golpe-metal-1	2980	Factory metal hard hit	1.3
+golpe-metal-2	833	Metal hammer hit	0.5
+golpe-metal-3	1842	Metal bowl hit	0.5
+golpe-metal-4	3139	Warehouse metal hit	1.0
+impacto-cine-1	788	Big cinematic impact	3.0
+impacto-cine-2	780	Cinematic impact echo	3.0
+impacto-cine-3	2901	Epic movie impact	3.0
+impacto-cine-4	549	Deep cinematic subtle drum impact	3.0
+golpe-1	2153	Body punch quick hit	0.2
+golpe-2	2143	Hard and quick punch	0.5
+golpe-3	2150	Impact of a blow	0.5
+explosion-lejana-1	1690	Distant explosion	3.0
+explosion-lejana-2	2772	Bomb distant explotion	3.0
+explosion-lejana-3	2786	Far away war explosions	3.0
+explosion-lejana-4	1696	Distant war explosions	3.0
+explosion-cercana-1	1694	Short explosion	0.5
+explosion-cercana-2	2800	Bomb explosion in battle	2.1
+explosion-cercana-3	2809	Explosion in battle	3.0
+explosion-cercana-4	2187	Low explosion indoors	3.0
+explosion-aire-1	2994	Clear firework explosions	1.7
+explosion-aire-2	1689	Multiple fireworks explosions	2.6
+explosion-aire-3	1722	Firework rockets explosions	3.0
+explosion-grande-1	1683	Explosion long echo	3.0
+explosion-grande-2	2777	Masive explosion in battle	3.0
+explosion-grande-3	1702	War field explosion	3.0
+explosion-grande-4	1686	Underground explosion impact echo	3.0
+misil-1	1714	Fast rocket whoosh	2.8
+misil-2	1715	Rocket engine ignition rumble	3.0
+misil-3	1725	Rocket ignition flames	3.0
+misil-4	1720	Space rocket full power turbine	3.0
+jet-pasa-1	1579	Low airplane flying over	6.0
+jet-pasa-2	1576	Landing jet flying whoosh	6.0
+jet-pasa-3	1580	Fast jet engine flying over	6.0
+jet-pasa-4	1578	Long airplane flying over	6.0
+motor-jet-1	1577	Jet airplane engine taking off	6.0
+motor-jet-2	1574	Jet plane hum flying	6.0
+motor-jet-3	1587	Jet plane flying rumble	6.0
+helice-1	2704	Helicopter propellers in the sky	6.0
+helice-2	2700	Helicopter flying in the sky	6.0
+helice-3	2699	Helicopter engine working close	1.8
+sirena-1	1641	Police siren	3.0
+sirena-2	1642	Ambulance siren US	3.0
+sirena-3	1644	Europe ambulance siren	3.0
+alarma-1	1005	Alert alarm	3.0
+alarma-2	1004	Critical alarm	3.0
+alarma-3	994	Security facility breach alarm	3.0
+radar-1	1582	Airport radar ping	1.2
+radar-2	1583	Futuristic radar ping	1.3
+radar-3	2957	Radar system glitch	3.0
+teclado-1	2534	Keyboard  key presses	0.7
+teclado-2	2538	Hard laptop keyboard typing	3.0
+teclado-3	2536	Writing on a laptop keyboard	3.0
+maquina-escribir-1	1377	Typing on an electric typewriter	3.0
+maquina-escribir-2	1378	Data input on typewriter	3.0
+maquina-escribir-3	1379	Data short input on typewriter	2.0
+papel-1	1105	Big paper page turn	0.8
+papel-2	2386	Pages of paper moving	1.4
+papel-3	2380	Paper quick movement	0.7
+firma-1	2369	Writing scribble on paper	0.6
+firma-2	2368	Signing on a paper	2.3
+firma-3	2995	Stapling paper	0.2
+dinero-1	1993	Clinking coins	0.8
+dinero-2	1939	Coins handling	0.5
+dinero-3	2003	Coins sound	0.4
+reloj-1	1063	Fast wall clock ticking	2.2
+reloj-2	1059	Tick tock clock close up	6.0
+reloj-3	1053	Ticking counter	6.0
+cuenta-regresiva-1	922	Simple countdown	3.2
+cuenta-regresiva-2	927	Start countdown	6.0
+cuenta-regresiva-3	916	Clock countdown bleeps	4.4
+aplausos-1	485	Medium size crowd applause	6.0
+aplausos-2	354	Audience light applause	5.7
+aplausos-3	437	Small crowd ovation	6.0
+multitud-1	2111	Crowd at the stadium	4.7
+multitud-2	450	Sports crowd ambience background	6.0
+multitud-3	363	Stadium chaotic loud applause, drums and chants	6.0
+abucheo-1	463	Crowd disappointment long boo	6.0
+gasp-1	964	Female astonished gasp	0.6
+gasp-2	965	Female shocked gasp	0.9
+gasp-3	968	Female surprised gasp	0.7
+viento-1	2411	Storm wind	2.2
+viento-2	2413	Dark storm wind	3.1
+viento-3	1165	Light wind	6.0
+trueno-1	1283	Cinematic thunder	4.3
+trueno-2	1282	Cinematic long thunder	6.0
+trueno-3	1301	Distant long thunder rumble	6.0
+tormenta-1	1289	Thunderstorm ambience	6.0
+tormenta-2	2403	Heavy rain	6.0
+tormenta-3	2410	Storm vortex	6.0
+olas-1	1204	Gentle sea wave	4.6
+olas-2	1202	Sea wave noise	2.0
+olas-3	1179	Swashing sea water	6.0
+chapuzon-1	1311	Water splash	1.3
+chapuzon-2	1304	Jumping into water	1.9
+chapuzon-3	1180	Jump into the water	2.1
+fuego-1	1335	Big fire burning	3.0
+fuego-2	1333	Aggressive fire flame	6.0
+fuego-3	1331	Big fire flame burning	6.0
+encendedor-1	1334	Zippo fire close	0.1
+encendedor-2	1349	Fast ignition fire	3.0
+encendedor-3	1348	Fire woosh	1.9
+crujido-1	3157	Creaky wooden scrap	1.4
+crujido-2	179	Creaking old floorboard	0.9
+crujido-3	178	Slow creaking floorboard	1.0
+metal-cae-1	396	Messy metal objects falling	3.0
+metal-cae-2	1429	Sci fi metal robot collapse	3.0
+metal-cae-3	783	Submarine metal impact	3.0
+romper-1	3208	Breaking apart	0.8
+romper-2	2938	Breaking electronic device	0.9
+vidrio-1	759	Glass break with hammer thud	0.8
+vidrio-2	172	Sweeping glass debris	2.9
+vidrio-3	2183	Glass hitting a metal	0.3
+brindis-1	154	A couple of glasses clink	0.9
+brindis-2	2836	Glasses clinking	0.7
+brindis-3	2936	Wine glass clink	0.5
+chispa-1	2598	Futuristic electricity sparks	2.4
+chispa-2	824	Welding and sparks	0.9
+chispa-3	2603	Electric welding and sparkles	3.0
+electricidad-1	2593	Electricity buzz	2.7
+electricidad-2	2601	Electricity lightning blast	3.0
+electricidad-3	2600	Electricity static power up	2.0
+encendido-1	2602	Electronics power up	3.0
+encendido-2	3164	Video game power up	0.9
+puerta-1	196	Door hard shut	0.5
+puerta-2	195	Creaky door open	2.0
+puerta-3	201	Prison metal door close	1.4
+ascensor-1	2863	Elevator tone	1.0
+ascensor-2	112	Elevator announcement bells	3.0
+pasos-1	542	Footsteps on heels on the pavement	5.2
+pasos-2	539	Footsteps on the snow	6.0
+pasos-3	536	Footsteps in a muddy puddle	3.7
+paso-gigante-1	1974	Giant monster footstep	2.4
+paso-gigante-2	1975	Monster footstep	2.0
+latido-1	497	Cinematic heartbeat ambience	5.8
+latido-2	498	Deep heartbeat impact	1.8
+latido-3	493	Fast Heartbeat	6.0
+riser-1	790	Cinematic trailer riser	2.1
+riser-2	1144	Short space stutter intro riser	6.0
+riser-3	645	Cinematic synth riser	6.0
+riser-4	786	Cinematic suspense swell	6.0
+caida-1	1942	Falling game over	1.8
+caida-2	2955	Funny system break down	1.3
+caida-3	2959	Spaceship system break down	3.0
+exito-1	2068	Achievement completed	1.4
+exito-2	2063	Completion of a level	2.1
+exito-3	2059	Game level completed	2.9
+ding-1	586	Attention bell ding	0.9
+ding-2	1791	Cooking bell ding	0.6
+ding-3	931	Service bell	0.5
+fallo-1	2876	Funny fail low tone	1.3
+fallo-2	2939	Futuristic device fail	3.0
+fallo-3	2947	Tech break fail	0.5
+glitch-1	1031	Glitch short	0.7
+glitch-2	1036	Game glitch	1.9
+glitch-3	2940	Electronic glitch sound	2.6
+glitch-4	1035	Robotic glitch	0.8
+camara-fotos-1	1133	Camera shutter click	0.2
+camara-fotos-2	1432	Camera digital shutter	0.4
+camara-fotos-3	1430	Camera shutter hard click	0.5
+campana-1	619	Cinematic church bell hit	3.0
+campana-2	1066	Classic clock gong	3.0
+campana-3	1069	Clock bells hour signal	3.0
+timbre-1	934	Store door bell ring	1.4
+timbre-2	589	Small door bell	0.6
+notificacion-1	933	Bell notification	2.6
+notificacion-2	937	Happy bells notification	2.4
+notificacion-3	766	Alert quick chime	0.9
+notificacion-4	3151	Positive game alert	0.4
+scratch	702	Record player vinyl scratch	1.1
+bip	2521	High tech bleep	1
+escaner	169	Futuristic sweep pass by	2
+arranque	3180	Machine activation short	2.5
+monedas	1993	Clinking coins	1
+tictac	1060	Wall clock tick tock	3
+ciudad	2930	City traffic background ambience	7
+viento-largo	2658	Wind blowing ambience	7

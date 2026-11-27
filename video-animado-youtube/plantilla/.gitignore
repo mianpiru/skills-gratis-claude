@@ -1,0 +1,7 @@
+node_modules/
+out/
+public/v*-cap*/
+public/sfx/*.wav
+public/musica/*.mp3
+public/miniaturas/
+*.mp4
